@@ -6,3 +6,7 @@ The best place for connecting to DB is
 on_startup_
 
 .. _on_startup: https://docs.aiohttp.org/en/stable/tutorial.html?highlight=on_startup
+
+优雅关闭应用:
+
+https://docs.aiohttp.org/en/stable/web.html#graceful-shutdown
