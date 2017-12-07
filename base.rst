@@ -10,3 +10,7 @@ on_startup_
 优雅关闭应用:
 
 https://docs.aiohttp.org/en/stable/web.html#graceful-shutdown
+
+Nested applications:
+
+https://docs.aiohttp.org/en/stable/web.html#nested-applications
